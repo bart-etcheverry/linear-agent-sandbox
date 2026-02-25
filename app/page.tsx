@@ -10,7 +10,7 @@ export default function Home() {
             Transform your ideas into reality with our powerful platform designed for modern creators
           </p>
           <div className="mt-10">
-            <button className="px-8 py-4 text-lg font-semibold text-white bg-blue-600 rounded-full hover:bg-blue-700 transition-all duration-200 shadow-lg hover:shadow-xl transform hover:scale-105">
+            <button className="px-8 py-4 text-lg font-semibold text-white bg-[#FF5733] rounded-full hover:bg-[#E04A2A] transition-all duration-200 shadow-lg hover:shadow-xl transform hover:scale-105">
               Sign Up
             </button>
           </div>
