@@ -11,7 +11,7 @@ export default function Home() {
           </p>
           <div className="mt-10">
             <button className="px-8 py-4 text-lg font-semibold text-white bg-[#FF5733] rounded-full hover:bg-[#E04A2A] transition-all duration-200 shadow-lg hover:shadow-xl transform hover:scale-105">
-              Sign Up
+              Join Now
             </button>
           </div>
         </div>
